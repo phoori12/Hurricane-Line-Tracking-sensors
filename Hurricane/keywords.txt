@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map QTRSensors
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Hurricane	KEYWORD1
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+read	KEYWORD2
+calibrate	KEYWORD2
+resetCalibration	KEYWORD2
+readCalibrated	KEYWORD2
+readLine	KEYWORD2
+calibratedMinimum	KEYWORD2
+calibratedMaximum	KEYWORD2
+init	KEYWORD2
